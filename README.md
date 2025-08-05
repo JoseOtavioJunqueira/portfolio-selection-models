@@ -27,10 +27,9 @@ Statsmodels – análise estatística e regressão (Alpha/Beta)
 Datetime & Dateutil – manipulação de datas
 itertools – geração de combinações e iterações eficientes
 
-## 💡 Inspiração
-
-Este projeto foi desenvolvido como parte das atividades da disciplina de Introdução à Computação no Mercado Fincaneiro, explorando abordagens quantitativas para montagem de carteiras de ações.
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
+---
+> Este projeto foi desenvolvido como parte das atividades da disciplina de Introdução à Computação no Mercado Fincaneiro
